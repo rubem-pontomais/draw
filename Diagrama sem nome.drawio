@@ -1,9 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:09:10.334Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.0.7" etag="hP9lciNyEFvbZCcWiksv" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T17:38:38.609Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fQQ59LJihhOTk8S6MoB_" version="24.0.7" type="github">
   <diagram name="Página-1" id="0DaDfG_m0dI0sVL4mCHX">
-    <mxGraphModel>
+    <mxGraphModel dx="1100" dy="601" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qa4Q4PSX-mK-vQSJD6jK-1" target="qa4Q4PSX-mK-vQSJD6jK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-1" value="Frontend VR Gente V2 Angular 2+&lt;div&gt;(Container)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="279" y="346" width="216" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-2" value="Frontend V1 Coffeescript&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="279" y="478" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qa4Q4PSX-mK-vQSJD6jK-3" target="qa4Q4PSX-mK-vQSJD6jK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-3" value="MFE A&lt;br&gt;(Tipo 3)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="18" y="284" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qa4Q4PSX-mK-vQSJD6jK-5" target="qa4Q4PSX-mK-vQSJD6jK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-5" value="MFE B&lt;br&gt;(Tipo 3)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="18" y="404" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qa4Q4PSX-mK-vQSJD6jK-6" target="qa4Q4PSX-mK-vQSJD6jK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qa4Q4PSX-mK-vQSJD6jK-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="694.666666666667" y="409.66666666666674" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-6" value="MFE C&lt;br&gt;(Tipo 2)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="18" y="524" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-11" value="Super Portal&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="592" y="205" width="199" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qa4Q4PSX-mK-vQSJD6jK-13" target="qa4Q4PSX-mK-vQSJD6jK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qa4Q4PSX-mK-vQSJD6jK-13" value="Frontend VR HCM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="279" y="68" width="216" height="216" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
